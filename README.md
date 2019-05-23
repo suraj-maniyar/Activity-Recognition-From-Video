@@ -2,8 +2,7 @@
 
 Original Paper: https://arxiv.org/pdf/1411.4389.pdf
 
-Thew original data used for training by the paper can be found here:-  
-https://drive.google.com/folderview?id=0B_U4GvmpCOecMVIwS1lkSm5KTGM&usp=sharing
+Thew original data used for training by the paper can be found [here](https://drive.google.com/folderview?id=0B_U4GvmpCOecMVIwS1lkSm5KTGM&usp=sharing)  
 
 The videos are taken from UCF-101 dataset. In this implementation I have focused on recognizing 7 activities from  
 
