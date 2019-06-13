@@ -25,8 +25,11 @@ The convolutional model is used to extract features from an image. Since I was u
 
 
 ## Results
-![Alt Text](assets/movie.gif)
+<p align="center">
+  <img src="assets/movie.gif" width="80%">
+</p>
+
 
 ## References
-*https://github.com/eriklindernoren/Action-Recognition
+* https://github.com/eriklindernoren/Action-Recognition
 
