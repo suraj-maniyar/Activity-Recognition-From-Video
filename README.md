@@ -27,7 +27,7 @@ The convolutional model is used to extract features from an image. Since I was u
 ## Results
 
 <p align="center">
-  <img src="assets/CM.png" width="40%">
+  <img src="assets/CM.png" width="80%">
 </p>
 
 
